@@ -1,0 +1,41 @@
+# PASSO 1
+cd - acessa pastas (tab mostra opções)
+mkdir - cria pastas
+
+# PASSO 2
+npx create-next-app *nome da aplicacao* - dentro da pasta do projeto, para n instalar de forma global (pacote node que cria um projeto next)
+
+# PASSO 3
+cd *nome da aplicacao* 
+npm run dev
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Microsoft Windows [versão 10.0.22621.1105]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\bianc>cd Documents
+
+C:\Users\bianc\Documents>cd Projetos
+
+C:\Users\bianc\Documents\Projetos>cd sanando_gaps
+
+C:\Users\bianc\Documents\Projetos\sanando_gaps>cd curso-nextjs_react
+
+C:\Users\bianc\Documents\Projetos\sanando_gaps\curso-nextjs_react>cd exercicios
+
+C:\Users\bianc\Documents\Projetos\sanando_gaps\curso-nextjs_react\exercicios>npm run dev
+
+exercicios@0.1.0 dev
+next dev
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000 # PORTA QUE O PROJETO ESTÁ FUNCIONANDO
+warn - You have enabled experimental feature (appDir) in next.config.js.
+info - Thank you for testing appDir please leave your feedback at [Feedback] App Directory in Next.js 13 · Discussion #41745 · vercel/next.js
+warn - Experimental features are not covered by semver, and may cause unexpected or broken application behavior. Use at your own risk.
+
+event - compiled client and server successfully in 648 ms (246 modules)
+wait - compiling /page (client and server)...
+event - compiled client and server successfully in 3s (552 modules)
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
